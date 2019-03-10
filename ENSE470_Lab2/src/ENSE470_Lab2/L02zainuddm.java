@@ -4,7 +4,7 @@ public class L02zainuddm {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Welcome to Regina Car Dealer~ \n");
+		System.out.println("Welcome to Regina Car Dealer~  \n");
 		
 		Car myCar = new BasicCar();
 
