@@ -1,4 +1,13 @@
+/**
+ * CarColor.java
+ */
+
 package ENSE470_Lab2;
+
+/**
+ * @author ShafiqZain
+ *
+ */
 
 public class CarColor extends CarDecorator {
 
