@@ -1,4 +1,13 @@
+/**
+ * L02zainuddm.java (Main)
+ */
+
 package ENSE470_Lab2;
+
+/**
+ * @author ShafiqZain
+ *
+ */
 
 public class L02zainuddm {
 
