@@ -1,4 +1,13 @@
+/**
+ * CarBumper.java
+ */
+
 package ENSE470_Lab2;
+
+/**
+ * @author ShafiqZain
+ *
+ */
 
 public class CarBumper extends CarDecorator {
 
