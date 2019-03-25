@@ -1,4 +1,13 @@
+/**
+ * CarExhaust.java
+ */
+
 package ENSE470_Lab2;
+
+/**
+ * @author ShafiqZain
+ *
+ */
 
 public class CarExhaust extends CarDecorator {
 
