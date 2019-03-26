@@ -25,4 +25,5 @@ abstract class CarDecorator implements Car {
 	public double getCost() {
 		return tempCar.getCost();
 	}
+	
 }
