@@ -28,7 +28,7 @@ class BasicCar implements Car {
 	@Override
 	public double getCost() {
 		// TODO Auto-generated method stub
-		return 145000.00;
+		return 147000.00;
 	}	
 }
 	
