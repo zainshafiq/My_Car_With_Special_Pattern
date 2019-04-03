@@ -26,7 +26,6 @@ class BasicCar implements Car {
 
 	@Override
 	public double getCost() {
-		
 		return 147000.00;
 	}	
 }
